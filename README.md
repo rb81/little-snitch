@@ -29,3 +29,7 @@ https://help.obdev.at/littlesnitch4/lsc-rule-group-subscriptions
 ## You May Also Like
 
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=littlesnitch-rule-group-subscriptions&mimetype=plaintext
+
+## Why Certain Domains Were Included
+
+Some legit domains may have ended up on the list by accident, and some were added on purpose. Anything that popped up on Little Snitch that couldn't easily be looked up was included, and certain websites that are frequently connected to that I personally don't use were also included (personal preference).
