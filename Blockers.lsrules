@@ -1,0 +1,1641 @@
+{
+  "description" : "Little Snitch Rule Group for blocking ad networks, social media plugins, and other annoyances.",
+  "name" : "Blockers",
+  "rules" : [
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "fna.fbcdn.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tpmn.co.kr"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "xx.fbcdn.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "1rx.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "2mdn.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "33across.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "360yield.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "3lift.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "a-mo.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "a-mx.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "aamapi.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "aaxads.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "aaxdetect.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ad-delivery.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ad.gt"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "addevent.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "addtocalendar.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adentifi.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adform.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adition.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adlightning.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adlooxtracking.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "admantx.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adnxs-simple.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adnxs.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adotmob.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adpushup.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adroll.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ads-twitter.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adsafeprotected.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adsparc.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adsrvr.org"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adswizz.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adtdp.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adtelligent.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adthrive.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "advertising.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adxcel.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adxpremium.services"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "agkn.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ahalogy.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "amazon-adsystem.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "amplitude.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ampproject.org"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "amxrtb.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "analysis.fi"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "aniview.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "appier.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "appspot.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "atdmt.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "atwola.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "b2c.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "bannerspace.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "behave.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "betweendigital.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "bidr.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "bidswitch.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "blogherads.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "bluekai.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "boltdns.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "brandmetrics.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "britepool.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "btloader.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "bttrack.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "bugsnag.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "c3tag.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "casalemedia.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "cdninstagram.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "cedexis.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "chartbeat.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "chartbeat.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "chimpstatic.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "clarity.ms"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "clean.gg"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "cloudflareinsights.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "connatix.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "connexity.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "crazyegg.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "criteo.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "criteo.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "crwdcntrl.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ctnsnet.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "decibelinsight.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "deepintent.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "demdex.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "deployads.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "dianomi.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "dotmetrics.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "dotomi.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "doubleclick.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "doubleverify.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "drift.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "driftcdn.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "dyntrk.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "edigitalsurvey.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "effectivemeasure.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "embed.ly"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "embedly.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "enzymic.co"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "evergage.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "evgnet.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "exelator.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "eyeota.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "facebook.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "facebook.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "fastclick.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "fbthirdpartypixel.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "fireworkanalytics.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "firstimpression.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "flashtalking.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "flickr.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "flockler.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "footprint.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "foxpush.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "foxpush.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "fwpixel.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "geoedge.be"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "getpublica.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ggpht.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ghostboard.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "go-mpulse.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "google-analytics.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "googleadservices.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "googleoptimize.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "googlesyndication.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "googletagmanager.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "googletagservices.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "gscontxt.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "gumgum.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "hellobar.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "hgrtb.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "honcode.ch"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "hotjar.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "hotjar.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "hsadspixel.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "htlbid.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "hybrid.ai"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "iasds01.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "id5-sync.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "im-apps.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "impact-ad.jp"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "imrworldwide.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "indexww.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "influ2.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "insightexpressai.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "inskinad.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "instagram.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "justpremium.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "kargo.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "kissmetrics.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "kissmetrics.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "knotch.it"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "krxd.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "liadm.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "lijit.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "llnwd.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "lmgssp.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "loopme.me"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "luckyorange.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "marphezis.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mathtag.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "media.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mediawallahscript.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "memo.co"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "memoinsights.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mfadsrvr.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mgid.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ml314.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mmpww.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "moatpixel.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mobgap.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "moengage.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mookie1.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "npttech.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ntv.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "omappapi.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "omnithrottle.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "omtrdc.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "onetag-sys.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "online-metrix.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "optimizely.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "optmnstr.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "optnmstr.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "outbrain.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "outbrainimg.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "owneriq.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "p-n.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "pagesense.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "pardot.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "perfectmarket.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "permutive.app"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "permutive.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "persuasion.community"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "petametrics.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "piano.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "pippio.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "plausible.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "postrelease.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "privacymanager.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "prodnostic.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "pubmatic.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "quantcount.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "quantserve.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "quantumdex.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "queryly.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "recombee.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "rfihub.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "richaudience.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "rubiconproject.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sail-horizon.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sail-personalize.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sail-track.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sbgsodufuosmmvsdf.info"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "scorecardresearch.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "seedtag.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "segment.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "segment.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sentry.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "servenobid.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "serverbid.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "serving-sys.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "shareaholic.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "shareaholic.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sharedid.org"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sharethrough.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "shemedia.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "shop.app"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sitescout.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "skimresources.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "smartadserver.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "snapchat.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sonobi.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "speakol.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "speedcurve.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "spotim.market"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "spotxchange.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "springserve.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "stackadapt.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "stickyadstv.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "streamrail.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "survicate.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "taboola.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tapad.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "targetspot.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tawk.link"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tawk.to"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "teads.tv"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tealiumiq.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tempestpremium.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "thebrighttag.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "thisisdax.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "thrtle.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tiktok.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tiktokcdn-us.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tiktokcdn.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tiktokv.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tinypass.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "trackcmp.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "trackjs.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "trackonomics.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "trafmag.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tremorhub.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "trendmd.co"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "trendmd.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tru.am"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "truste.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "turn.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "tynt.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "undertone.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "unrulymedia.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "uplynk.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "useinsider.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "usemessages.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "userreport.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "vdo.ai"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "vidazoo.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "vidcrunch.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "vidible.tv"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "viglink.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "vuukle.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "web.app"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "yahoo.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "yahoo.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "yahoodns.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "yandex.ru"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "yellowblue.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "yieldmo.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "yimg.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "zdbb.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "zemanta.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "zeotap.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ziffstatic.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-hosts" : "analytics.archive.org"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-hosts" : "analytics.ghostery.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-hosts" : "adservice.google.ae"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-hosts" : "adservice.google.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-hosts" : "analytics.google.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-hosts" : "px.ads.linkedin.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-hosts" : "ads-api.twitter.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-hosts" : "analytics.twitter.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "beemray.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "boomtrain.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "bounceexchange.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "bouncex.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "fwmrm.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "rezync.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "s-onetag.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "summerhamster.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ugdturner.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "usabilla.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "zqtk.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "pinimg.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "interactivebrokers.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "buysellads.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mxpnl.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "visualwebsiteoptimizer.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "affirm.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mktoutil.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mktoresp.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "dyanmicyield.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "marketo.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "yotpo.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "e-planning.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "admixer.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "openx.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "pixfuture.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ccgateway.net"
+    }
+  ]
+}
