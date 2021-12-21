@@ -595,11 +595,6 @@
     {
       "action" : "deny",
       "process" : "any",
-      "remote-domains" : "ggpht.com"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
       "remote-domains" : "ghostboard.io"
     },
     {
@@ -1636,6 +1631,146 @@
       "action" : "deny",
       "process" : "any",
       "remote-domains" : "ccgateway.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ipinfo.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ntv.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "bnmla.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adkernel.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "privacy-mgmt.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "webcontentassessor.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "nr-data.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "pub.network"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "kad.systems"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "hsleadflows.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "hscollectedforms.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "luckyorange.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "cdtapps.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "salecycle.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "getbynder.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "bazaarvoice.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "refersion.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "attn.tv"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "convertexperiments.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "cna.st"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "coralproject.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "condenast.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "redretarget.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ometria.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "eastsideapps.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "metorik.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "adalyser.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "marinsm.com"
     }
   ]
 }
