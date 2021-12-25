@@ -1085,11 +1085,6 @@
     {
       "action" : "deny",
       "process" : "any",
-      "remote-domains" : "sentry.io"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
       "remote-domains" : "servenobid.com"
     },
     {
