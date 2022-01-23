@@ -1766,6 +1766,21 @@
       "action" : "deny",
       "process" : "any",
       "remote-domains" : "marinsm.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "moatads.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "everesttech.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "conviva.com"
     }
   ]
 }
