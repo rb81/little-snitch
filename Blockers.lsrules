@@ -245,11 +245,6 @@
     {
       "action" : "deny",
       "process" : "any",
-      "remote-domains" : "appspot.com"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
       "remote-domains" : "atdmt.com"
     },
     {
