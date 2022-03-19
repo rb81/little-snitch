@@ -480,16 +480,6 @@
     {
       "action" : "deny",
       "process" : "any",
-      "remote-domains" : "embed.ly"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
-      "remote-domains" : "embedly.com"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
       "remote-domains" : "enzymic.co"
     },
     {
