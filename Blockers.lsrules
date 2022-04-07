@@ -1385,21 +1385,6 @@
     {
       "action" : "deny",
       "process" : "any",
-      "remote-domains" : "yahoo.com"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
-      "remote-domains" : "yahoo.net"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
-      "remote-domains" : "yahoodns.net"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
       "remote-domains" : "yandex.ru"
     },
     {
@@ -1411,11 +1396,6 @@
       "action" : "deny",
       "process" : "any",
       "remote-domains" : "yieldmo.com"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
-      "remote-domains" : "yimg.com"
     },
     {
       "action" : "deny",
