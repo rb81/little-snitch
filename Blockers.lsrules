@@ -1650,11 +1650,6 @@
     {
       "action" : "deny",
       "process" : "any",
-      "remote-domains" : "cdtapps.com"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
       "remote-domains" : "salecycle.com"
     },
     {
