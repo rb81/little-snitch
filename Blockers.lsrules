@@ -1335,11 +1335,6 @@
     {
       "action" : "deny",
       "process" : "any",
-      "remote-domains" : "useinsider.com"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
       "remote-domains" : "usemessages.com"
     },
     {
