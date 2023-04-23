@@ -1110,11 +1110,6 @@
     {
       "action" : "deny",
       "process" : "any",
-      "remote-domains" : "shop.app"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
       "remote-domains" : "sitescout.com"
     },
     {
