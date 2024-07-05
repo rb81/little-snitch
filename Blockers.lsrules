@@ -1,4 +1,4 @@
-{
+    {
   "description" : "Little Snitch Rule Group for blocking ad networks, social media plugins, and other annoyances.",
   "name" : "Blockers",
   "rules" : [
@@ -1731,6 +1731,226 @@
       "action" : "deny",
       "process" : "any",
       "remote-domains" : "conviva.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ttwstatic.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "kueezrtb.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "admanmedia.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "eu-1-id5-sync.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "eagerknight.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "merequartz.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "linkfire.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "lytics.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sc-static.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "memorizematch.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "videoplayerhub.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "protechts.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "pro-market.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "6sc.co"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "crsspxl.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "slashdotmedia.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "fsdn.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ml314.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "klclick.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "intercom.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "mediavine.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "addtoany.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "openxcdn.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "opecloud.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "brevo.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "growplow.events"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sibautomation.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "es.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sda.fyi"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "journeymv.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "rudderlabs.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "browser-intake-datadoghq.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sentry-cdn.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "website-files.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "sentry.io"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "amplience.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "ltmsphrcl.net"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "datahoghq-browser-agent.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "xlgmedia.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "servedby-buysellads.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "outpostpublishingcoop.co"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "acast.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "clickfunnels.com"
+    },
+    {
+      "action" : "deny",
+      "process" : "any",
+      "remote-domains" : "pricklypollution.com"
     }
   ]
 }
