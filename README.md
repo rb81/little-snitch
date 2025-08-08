@@ -28,7 +28,7 @@ https://help.obdev.at/littlesnitch4/lsc-rule-group-subscriptions
 
 ## You May Also Like
 
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=littlesnitch-rule-group-subscriptions&mimetype=plaintext
+[Blocklist](https://github.com/anudeepND/blacklist) by @anudeepND which is way more comprehensive.
 
 ## Why Certain Domains Were Included
 
