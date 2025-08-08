@@ -1900,11 +1900,6 @@
     {
       "action" : "deny",
       "process" : "any",
-      "remote-domains" : "website-files.com"
-    },
-    {
-      "action" : "deny",
-      "process" : "any",
       "remote-domains" : "sentry.io"
     },
     {
